@@ -60,8 +60,6 @@ python snake_game.py
 
 ![Snake Game Screenshot](screenshot.png)
 
-> Make sure to capture a screenshot of your game running and save it as `screenshot.png` in the same directory.
-
 ---
 
 ## 📄 File Structure
